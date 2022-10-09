@@ -1,9 +1,9 @@
 {
-    "name": "hcodebr/ecommerce",
+    "name": "jonipequeno/ecommerce",
     "authors": [
         {
-            "name": "Hcode Treinamentos",
-            "email": "suporte@hcode.com.br"
+            "name": "Jonathan Pequeno",
+            "email": "wowi@outlook.com.br"
         }
     ],
     "require": {
